@@ -1,2 +1,10 @@
 venv
 venv/*
+
+media
+media/*
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+__pycache__/*
